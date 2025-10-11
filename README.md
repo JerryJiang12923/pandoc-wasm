@@ -1,6 +1,6 @@
 # `pandoc-wasm`
 
-[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#haskell-wasm:matrix.terrorjack.com)
+[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#haskell.wasm:matrix.org)
 
 The latest version of `pandoc` CLI compiled as a standalone
 `wasm32-wasi` module that can be run by engines like `wasmtime` as
